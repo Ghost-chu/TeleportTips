@@ -1,0 +1,7 @@
+name: TeleportTips
+main: com.mcsunnyside.TeleportTips.Main
+version: 0.0.2-SNAPSHOT
+commands:
+  tips:
+    description: reload tips plugin
+    usage: /<command>

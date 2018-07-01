@@ -1,0 +1,9 @@
+Strings:
+    Teleport: "&a传送成功"
+    #设置为 "&f" 来取消主title显示
+    TipsPrefix: "&6&lTips: &b"
+    #设置为 "&b" 来取消subtitle的前缀显示
+Tips:
+  - 示例1
+  - 示例2
+  - "&6示例3"
